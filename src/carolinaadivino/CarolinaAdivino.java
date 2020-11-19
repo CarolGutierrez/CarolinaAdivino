@@ -7,7 +7,7 @@ package carolinaadivino;
 
 import java.util.Scanner;
 
-/**
+/**El programa funciona perfecto, revisado por Juan Alberto, un saludo y suerte en los exámenes!
  *
  * @author Neylin
  */
