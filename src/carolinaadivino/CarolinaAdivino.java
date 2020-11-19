@@ -19,7 +19,7 @@ public class CarolinaAdivino {
     public static void main(String[] args) {
         int n = 0,cont = 0;		//Perfecto cumple el objetivo. Revisado por Juan Alberto.
         int x = (int) (Math.random()*(10-50)+50);
-        System.out.print(x);
+        //System.out.print(x);
         Scanner sc = new Scanner(System.in);
         do {
             System.out.print("\nIntroduce el valor de X: ");
